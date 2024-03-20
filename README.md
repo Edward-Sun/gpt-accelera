@@ -12,6 +12,7 @@ Featuring:
 - Supports training policy models with Supervised Fine-Tuning (SFT)
 - Supports training reward models (RM) with pointwise and pairwise losses
 - Supports on-policy (PPO) and off-policy (DPO) reinforcement learning (RL) training
+- All the training can be performed with full fine-tuning for `7b-34b LLaMA/Llemma` models
 
 Shared features w/ `gpt-fast`:
 
